@@ -65,7 +65,7 @@ Fraud occurs exclusively in `TRANSFER` and `CASH_OUT` transaction types.
 
 ```
 paysim-fraud-detection/
-├── CODE_final.ipynb       # Full pipeline notebook
+├── Code_.ipynb       # Full pipeline notebook
 ├── app.py                 # Streamlit demo
 ├── requirements.txt
 ├── fraud_model.pkl        # Trained AdaBoost pipeline
