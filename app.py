@@ -396,6 +396,6 @@ if predict_btn:
 st.markdown("""
 <div class="ftr">
     PaySim Fraud Detection &nbsp;·&nbsp; AdaBoost &nbsp;·&nbsp; PR-AUC 0.97<br>
-    Jordan University of Science and Technology &nbsp;·&nbsp; Big Data Analytics
+
 </div>
 """, unsafe_allow_html=True)
