@@ -1,4 +1,4 @@
-﻿# PaySim Fraud Detection
+﻿# Mobile Money Fraud Detection
 
 A machine learning pipeline for detecting financial fraud in mobile money transactions using the PaySim synthetic dataset. The project covers the full workflow: exploratory data analysis, preprocessing, feature engineering, model training with cross-validation, and a live prediction interface.
 
